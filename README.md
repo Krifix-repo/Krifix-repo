@@ -3,7 +3,6 @@
 - 🔭 Currently working on my own mail inbox.
 - 🌱 Currently learning React.js alongside Next.js
 - 🧱 Learning some UI/UX designing in spare time.
-- ✨ Developer of Polish Minecraft Server 'ByleMC'.
 <br />
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
